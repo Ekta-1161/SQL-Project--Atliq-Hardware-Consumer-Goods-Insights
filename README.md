@@ -1,0 +1,1 @@
+# SQL-Project--Atliq-Hardware-Consumer-Goods-Insights
